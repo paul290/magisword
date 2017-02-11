@@ -4,15 +4,15 @@
 
 **HTML**
  1. [ ] div & span
- 2. [ ] id & class
+ 2. [ x] id & class
  3. [ ] list tags
- 4. [ ] h  tags
- 5. [ ] nav tags
+ 4. [x ] h  tags
+ 5. [ x] nav tags
  6. [ ] comments in css and html
 
 **CSS**
   1. [ ] hover
-  2. [ ] padding
+  2. [ x] padding
   3. [ ] height
   4. [ ] width properties
 
